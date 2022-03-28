@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/ajk/static/css/main.c335f2b6.chunk.css",
-    "main.js": "/ajk/static/js/main.5b99c9d8.chunk.js",
-    "main.js.map": "/ajk/static/js/main.5b99c9d8.chunk.js.map",
+    "main.css": "/ajk/static/css/main.3b76a5ff.chunk.css",
+    "main.js": "/ajk/static/js/main.7850f336.chunk.js",
+    "main.js.map": "/ajk/static/js/main.7850f336.chunk.js.map",
     "runtime-main.js": "/ajk/static/js/runtime-main.aebf9923.js",
     "runtime-main.js.map": "/ajk/static/js/runtime-main.aebf9923.js.map",
     "static/css/2.fbf08e0d.chunk.css": "/ajk/static/css/2.fbf08e0d.chunk.css",
-    "static/js/2.cbe5e52f.chunk.js": "/ajk/static/js/2.cbe5e52f.chunk.js",
-    "static/js/2.cbe5e52f.chunk.js.map": "/ajk/static/js/2.cbe5e52f.chunk.js.map",
+    "static/js/2.c3e2633a.chunk.js": "/ajk/static/js/2.c3e2633a.chunk.js",
+    "static/js/2.c3e2633a.chunk.js.map": "/ajk/static/js/2.c3e2633a.chunk.js.map",
     "index.html": "/ajk/index.html",
-    "precache-manifest.276046b285a1f20761a860539f96f37b.js": "/ajk/precache-manifest.276046b285a1f20761a860539f96f37b.js",
+    "precache-manifest.006d7942d25736395e897b58cfb8def1.js": "/ajk/precache-manifest.006d7942d25736395e897b58cfb8def1.js",
     "service-worker.js": "/ajk/service-worker.js",
     "static/css/2.fbf08e0d.chunk.css.map": "/ajk/static/css/2.fbf08e0d.chunk.css.map",
-    "static/css/main.c335f2b6.chunk.css.map": "/ajk/static/css/main.c335f2b6.chunk.css.map",
-    "static/js/2.cbe5e52f.chunk.js.LICENSE.txt": "/ajk/static/js/2.cbe5e52f.chunk.js.LICENSE.txt",
+    "static/css/main.3b76a5ff.chunk.css.map": "/ajk/static/css/main.3b76a5ff.chunk.css.map",
+    "static/js/2.c3e2633a.chunk.js.LICENSE.txt": "/ajk/static/js/2.c3e2633a.chunk.js.LICENSE.txt",
     "static/media/AINIT.png": "/ajk/static/media/AINIT.e9db3c75.png",
     "static/media/HNIT.png": "/ajk/static/media/HNIT.47e0a086.png",
     "static/media/hedge.png": "/ajk/static/media/hedge.8c846568.png",
     "static/media/john.png": "/ajk/static/media/john.2899c700.png",
+    "static/media/linux.png": "/ajk/static/media/linux.f98141e8.png",
     "static/media/me.jpg": "/ajk/static/media/me.28378a1f.jpg",
     "static/media/python.png": "/ajk/static/media/python.014fddba.png",
     "static/media/robo.png": "/ajk/static/media/robo.111b6a65.png"
@@ -25,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.aebf9923.js",
     "static/css/2.fbf08e0d.chunk.css",
-    "static/js/2.cbe5e52f.chunk.js",
-    "static/css/main.c335f2b6.chunk.css",
-    "static/js/main.5b99c9d8.chunk.js"
+    "static/js/2.c3e2633a.chunk.js",
+    "static/css/main.3b76a5ff.chunk.css",
+    "static/js/main.7850f336.chunk.js"
   ]
 }
